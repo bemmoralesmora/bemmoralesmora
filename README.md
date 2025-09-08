@@ -36,11 +36,14 @@
 </br></br>
   
 <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Imagen por 前髪</a>
+<a href="https://www.pixiv.net/en/users/35069640"></a>
   </div>
   </div>
 
 ------
-Credit: [ParisSmirnov](https://github.com/ParisSmirnov)
+Credit: [ParisSmirnov](https://github.com/ParisSmirnov) 
+
+Portfolio: [ParisSmirnov](https://portfolio-chi-gray-58.vercel.app/)
+
 
 Last Edited on: 08/09/2025
